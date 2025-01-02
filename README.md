@@ -47,7 +47,6 @@ sgd_clf = SGDClassifier(max_iter=1000, tol=1e-3)
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
 ![Screenshot 2024-11-17 150859](https://github.com/user-attachments/assets/e7434504-a8ae-488c-9ff9-580dc1a7b2d2)
 
 
